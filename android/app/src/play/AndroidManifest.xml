@@ -20,7 +20,7 @@
 		</receiver>
 		<meta-data
 				android:name="com.bugsnag.android.API_KEY"
-				android:value="${BugsnagAPIKey}" />
+				android:value="9b1129a201c3a0ab62f7e3d115663df1" />
 	</application>
 
 </manifest>
